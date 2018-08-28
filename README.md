@@ -1,0 +1,2 @@
+# MeiTuanCinemaSmartChoose
+模拟美团app推荐座位算法
